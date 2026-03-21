@@ -102,7 +102,7 @@ const ContactMeContainer = () => {
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/EthicalGT" target="_blank" rel="noreferrer">
+                                <a href="https://github.com/EffortlessGT" target="_blank" rel="noreferrer">
                                     <i className="fa-brands fa-github"></i>
                                 </a>
                             </li>
