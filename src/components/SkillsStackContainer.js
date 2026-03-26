@@ -8,6 +8,10 @@ import flask from "../assets/img/extras/flask.svg";
 import echo from "../assets/img/extras/echo.png";
 import docker from "../assets/img/extras/docker.svg";
 import laravel from "../assets/img/extras/laravel.png";
+import robot from "../assets/img/extras/robot.svg";
+import playwright from "../assets/img/extras/playwright.svg";
+
+
 
 
 const SkillStackContainer = () => {
@@ -52,6 +56,8 @@ const SkillStackContainer = () => {
             { image: docker, label: "Docker" },
             { icon: "fa-solid fa-code-branch icon", label: "Git" },
             { icon: "fa-brands fa-figma icon", label: "Figma" },
+            { image: robot, label: "Robot Framework"},
+            { image: playwright, label: "Playwright"}
         ],
     };
 

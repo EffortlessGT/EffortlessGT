@@ -31,7 +31,7 @@ const ProjectsContainer = () => {
             image: culturyus,
             description: "CulturyUs is a user driven platform serving various services to user like skill-exchange, tourist guide booking, indian artpeice marketplace etc.",
             techStack: ["html5", "css3-alt", "js", "golang"],
-            github: "https://github.com/EthicalGT/CulturyUs",
+            github: "https://github.com/EffortlessGT/CulturyUs",
             demo: null,
             label: "Completed"
         },
@@ -41,7 +41,7 @@ const ProjectsContainer = () => {
             image: ed_2,
             description: "EthicalDood is a learning platform offering real-world code examples, solved problems, and PDF solutions to help users master programming effectively.",
             techStack: ["html5", "css3-alt", "js", "php"],
-            github: "https://github.com/EthicalGT/Ethicaldood",
+            github: "https://github.com/EffortlessGT/Ethicaldood",
             demo: null,
             label: "Completed"
         },
@@ -51,7 +51,7 @@ const ProjectsContainer = () => {
             image: ed_2,
             description: "EthicalDood 2.0 is an advanced PHP-based platform that extends its original version with features like forums, MCQ tests, and user uploads—offering a complete space for developers to learn, share code, and collaborate.",
             techStack: ["html5", "css3-alt", "js", "php"],
-            github: "https://github.com/EthicalGT/Ethicaldood-2.0",
+            github: "https://github.com/EffortlessGT/Ethicaldood-2.0",
             demo: null,
             label: "Completed"
         },
@@ -61,7 +61,7 @@ const ProjectsContainer = () => {
             image: ed_3,
             description: "EthicalDood 3.0 is a Java Swing/AWT desktop app that brings the full power of its web predecessors offline, adding new tools like a plagiarism detector, CMS, online compiler, and many more.",
             techStack: ["java"],
-            github: "https://github.com/EthicalGT/EthicalDood-3.0",
+            github: "https://github.com/EffortlessGT/EthicalDood-3.0",
             demo: null,
             label: "Completed"
         },
@@ -71,7 +71,7 @@ const ProjectsContainer = () => {
             image: ethicalpay,
             description: "EthicalPay is a test-mode payment gateway tailored for student and college projects, enabling safe and realistic transaction flow testing without real financial operations.",
             techStack: ["html5", "css3-alt", "js", "golang"],
-            github: "https://github.com/EthicalGT/EthicalPay",
+            github: "https://github.com/EffortlessGT/EthicalPay",
             demo: "https://troubled-eloisa-ethicalpay-eb02efa7.koyeb.app/",
             label: "Completed"
         },
@@ -81,7 +81,7 @@ const ProjectsContainer = () => {
             image: ethicalpay2,
             description: "EthicalPay II is an SaaS, API-driven Payment Gateway Simulation Framework designed for developers, students, and researchers to test and experiment with payment workflows.",
             techStack: ["html5", "css3-alt", "js", "golang"],
-            github: "https://github.com/EthicalGT/EthicalPay",
+            github: "https://github.com/EffortlessGT/EthicalPay",
             demo: "https://ethicalpay2.koyeb.app/",
             label: "Completed"
         },
@@ -91,7 +91,7 @@ const ProjectsContainer = () => {
             image: alternate,
             description: "LocalPal is a Django-based static web app with MySQL that guides users to nearby attractions. It features an admin panel for managing content and collecting user feedback.",
             techStack: ["html5", "css3-alt", "js", "python"],
-            github: "https://github.com/EthicalGT/LocalPal",
+            github: "https://github.com/EffortlessGT/LocalPal",
             demo: null,
             label: "Completed"
         },
@@ -101,7 +101,7 @@ const ProjectsContainer = () => {
             image: alternate,
             description: "PsychBuddy is a Django web app offering mental health support through therapy booking, emotion detection, resources, and community engagement—helping users manage their well-being effectively.",
             techStack: ["html5", "css3-alt", "js", "python"],
-            github: "https://github.com/EthicalGT/Psychbuddy",
+            github: "https://github.com/EffortlessGT/Psychbuddy",
             demo: null,
             label: "Completed"
         },
@@ -111,7 +111,7 @@ const ProjectsContainer = () => {
             image: shopg,
             description: "Shop-G is a PHP-based grocery shopping app featuring product listings, cart management, user feedback, and an admin panel, all powered by a MySQL database for efficient data handling.",
             techStack: ["html5", "css3-alt", "js", "php"],
-            github: "https://github.com/EthicalGT/Shop-G",
+            github: "https://github.com/EffortlessGT/Shop-G",
             demo: null,
             label: "Completed"
         },
@@ -121,7 +121,7 @@ const ProjectsContainer = () => {
             image: cinevibe,
             description: "CineVibe is an open-source web application designed for movie lovers to watch, download, and book tickets for movies online. The site is managed by an admin having full access.",
             techStack: ["html5", "css3-alt", "js", "php"],
-            github: "https://github.com/EthicalGT/CineVibe",
+            github: "https://github.com/EffortlessGT/CineVibe",
             demo: null,
             label: "Completed"
         },
@@ -131,7 +131,7 @@ const ProjectsContainer = () => {
             image: kohinoor,
             description: "Kohinoor is a PHP-based jewellery shopping app with cart management, purchase handling, admin CRUD, and feedback features, using MySQL for efficient data management.",
             techStack: ["html5", "css3-alt", "js", "php"],
-            github: "https://github.com/EthicalGT/Kohinoor",
+            github: "https://github.com/EffortlessGT/Kohinoor",
             demo: null,
             label: "Completed"
         },
@@ -141,7 +141,7 @@ const ProjectsContainer = () => {
             image: kavach,
             description: "Kavach is a mobile app focused on women’s safety, featuring SOS alerts, live location sharing, emergency calls, and admin notifications for quick emergency support.",
             techStack: ["android", "java"],
-            github: "https://github.com/EthicalGT/Kavach",
+            github: "https://github.com/EffortlessGT/Kavach",
             demo: null,
             label: "Completed"
         },
@@ -151,7 +151,7 @@ const ProjectsContainer = () => {
             image: babycare,
             description: "BabyCare is a Java desktop app offering offline baby care guidance, product recommendations, and name ideas, with admin-managed content for easy updates.",
             techStack: ["java"],
-            github: "https://github.com/EthicalGT/Babycare",
+            github: "https://github.com/EffortlessGT/Babycare",
             demo: null,
             label: "Completed"
         },
@@ -161,7 +161,7 @@ const ProjectsContainer = () => {
             image: newshub,
             description: "NewsHub is a dynamic news platform allowing users to view news, send feedback, and interact, with admin control to manage and update content.",
             techStack: ["html5", "css3-alt", "js", "php"],
-            github: "https://github.com/EthicalGT/NewsHub",
+            github: "https://github.com/EffortlessGT/NewsHub",
             demo: null,
             label: "Completed"
         },
@@ -171,7 +171,7 @@ const ProjectsContainer = () => {
             image: ethixion,
             description: "Ethixion is an advanced Web Application Firewall (WAF) and API security platform designed to safeguard modern applications against evolving cyber threats. Ethixion is under development...",
             techStack: ["react", "rust"],
-            github: "https://github.com/EthicalGT/Ethixion-FE",
+            github: "https://github.com/EffortlessGT/Ethixion-FE",
             demo: null,
             label: "In Development"
         },
@@ -181,7 +181,7 @@ const ProjectsContainer = () => {
             image: aura,
             description: "AURA (Authentic Universal Ayurvedic Resource Authentication) is an AI and Blockchain-powered platform that ensures authenticity, transparency, and fair trade in the Ayurvedic herb supply chain. Farmers upload geo-tagged herb images through a mobile app.",
             techStack: ["react", "blockchain", "ai"],
-            github: "https://github.com/EthicalGT/AURA.git",
+            github: "https://github.com/EffortlessGT/AURA.git",
             demo: "https://aura-ktej.onrender.com/",
             label: "In Development"
         },
@@ -191,7 +191,7 @@ const ProjectsContainer = () => {
             image: hodportfolio,
             description: "A freelance project for the MCA Department HOD portfolio, showcasing professional achievements, department updates, and faculty highlights with a modern and responsive design.",
             techStack: ["html5", "css3-alt", "js", "react"],
-            github: "https://github.com/EthicalGT/KavitaSuryawanshi-Portfolio.git",
+            github: "https://github.com/EffortlessGT/KavitaSuryawanshi-Portfolio.git",
             demo: "https://kavitasuryawanshi.vercel.app/",
             label: "Completed"
         },
@@ -201,7 +201,7 @@ const ProjectsContainer = () => {
             image: alternate,
             description: "Shishyarthi is an innovative online platform designed to address real-world challenges faced by students. It offers a comprehensive suite of resources, including academic support, job opportunities, and tools.",
             techStack: ["html5", "css3-alt", "js"],
-            github: "https://github.com/EthicalGT/Shishyarthi.git",
+            github: "https://github.com/EffortlessGT/Shishyarthi.git",
             demo: null,
             label: "Completed"
         },
@@ -211,7 +211,7 @@ const ProjectsContainer = () => {
             image: freelancing,
             description: "A project for MBA students for organic food growing. Due to a private agreement, the repository is private and cannot be disclosed.",
             techStack: ["html5", "css3-alt", "js"],
-            github: "https://github.com/EthicalGT/Freelancing.git",
+            github: "https://github.com/EffortlessGT/Freelancing.git",
             demo: "https://freelancing-seven.vercel.app/",
             label: "In Development"
         },
@@ -221,7 +221,7 @@ const ProjectsContainer = () => {
             image: boss,
             description: "A new layer of browser-side security for web applications. The project is copyrighted; please do not attempt to copy. Built with Rust, Next.js, and ML models.",
             techStack: ["rust", "react", "js", "hexagon-nodes-bolt"],
-            github: "https://github.com/EthicalGT/BOSS.git",
+            github: "https://github.com/EffortlessGT/BOSS.git",
             demo: "https://bossservice.vercel.app/",
             label: "In Development"
         },
@@ -231,7 +231,7 @@ const ProjectsContainer = () => {
             image: portfolio,
             description: "My very first portfolio project, built in just one day using HTML5, CSS, and JavaScript. It reflects my initial steps into frontend development, focusing on layout, styling, and interactivity.",
             techStack: ["html5", "css3-alt", "js"],
-            github: "https://github.com/EthicalGT/Portfolio-Project.git",
+            github: "https://github.com/EffortlessGT/Portfolio-Project.git",
             demo: null,
             label: "Completed"
         },
@@ -241,7 +241,7 @@ const ProjectsContainer = () => {
             image: alternate,
             description: "BookHaven is a simple and fun full-stack book management system that demonstrates CRUD (Create, Read, Update, Delete) operations. Built using Django for the backend and HTML, CSS, and JavaScript for the frontend.",
             techStack: ["html5", "css3-alt", "js", "python"],
-            github: "https://github.com/EthicalGT/BookHaven",
+            github: "https://github.com/EffortlessGT/BookHaven",
             demo: null,
             label: "Completed"
         },

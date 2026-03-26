@@ -1,5 +1,3 @@
-import FadeUpOnScroll from "./FadeUpOnScroll";
-
 const FooterContainer = () => {
     return (
             <footer>
